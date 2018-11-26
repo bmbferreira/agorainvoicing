@@ -78,8 +78,7 @@ Create Template
 
 
                 </div>
-
-                <div class="row">
+              <div class="row">
                     <div class="col-md-12 form-group">
 
                         <script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
